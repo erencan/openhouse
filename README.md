@@ -1,2 +1,2 @@
 # openhouse
-OpenHouse is an open source drop-in audio chat software
+🤟 OpenHouse is an open source drop-in audio chat software
